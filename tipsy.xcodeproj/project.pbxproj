@@ -15,6 +15,7 @@
 		503F69DF24C7A21E001DD070 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503F69DD24C7A21E001DD070 /* LaunchScreen.storyboard */; };
 		503F69EA24C7A21E001DD070 /* tipsyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503F69E924C7A21E001DD070 /* tipsyTests.swift */; };
 		503F69F524C7A21E001DD070 /* tipsyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503F69F424C7A21E001DD070 /* tipsyUITests.swift */; };
+		50F6CC2E24C7D32C00B1A6CB /* images in Resources */ = {isa = PBXBuildFile; fileRef = 50F6CC2D24C7D32C00B1A6CB /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,8 @@
 		503F69F024C7A21E001DD070 /* tipsyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		503F69F424C7A21E001DD070 /* tipsyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsyUITests.swift; sourceTree = "<group>"; };
 		503F69F624C7A21E001DD070 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50F6CC2C24C7D31300B1A6CB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		50F6CC2D24C7D32C00B1A6CB /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 		503F69C624C7A21E001DD070 = {
 			isa = PBXGroup;
 			children = (
+				50F6CC2D24C7D32C00B1A6CB /* images */,
+				50F6CC2C24C7D31300B1A6CB /* README.md */,
 				503F69D124C7A21E001DD070 /* tipsy */,
 				503F69E824C7A21E001DD070 /* tipsyTests */,
 				503F69F324C7A21E001DD070 /* tipsyUITests */,
@@ -232,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50F6CC2E24C7D32C00B1A6CB /* images in Resources */,
 				503F69DF24C7A21E001DD070 /* LaunchScreen.storyboard in Resources */,
 				503F69DC24C7A21E001DD070 /* Assets.xcassets in Resources */,
 				503F69DA24C7A21E001DD070 /* Main.storyboard in Resources */,
