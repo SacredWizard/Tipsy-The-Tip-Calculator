@@ -3,4 +3,4 @@ Simple Tip Calculator App for iOS
 
 
 
-![Tipsy Screenshot](images/tipsy.png =414x896)
+![Tipsy Screenshot](images/tipsy.png)
