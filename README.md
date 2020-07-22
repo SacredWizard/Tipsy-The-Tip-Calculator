@@ -1,6 +1,4 @@
 # Tipsy-The-Tip-Calculator
 Simple Tip Calculator App for iOS
 
-
-
-![Tipsy Screenshot](images/tipsy.png)
+<img src="./images/tipsy.png" width="276" height="598">
